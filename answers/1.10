@@ -1,0 +1,2 @@
+docker exec -it cont_td3 /bin/bash
+cat /etc/*release
